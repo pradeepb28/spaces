@@ -3,6 +3,14 @@
     <channel>
         <title>Spaces</title>
         <item>
+            <title>0.9.5</title>
+            <pubDate>Sat, 03 Dec 2022 12:58:28 +0530</pubDate>
+            <sparkle:version>0.9.5</sparkle:version>
+            <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/spaces-for-macos.appspot.com/o/Spaces.zip?alt=media&amp;token=80ea48f6-15c2-4d96-8426-36a299506196" length="4031799" type="application/octet-stream" sparkle:edSignature="w/5WepTHK1fmTMrOvYr7V02rDNjeeABJiZL1OBRlCxJR5CDTXfaNliJmrkfdrkbowZetz2fUKVaSxtViOnKCDg=="/>
+        </item>
+        <item>
             <title>0.9.4</title>
             <pubDate>Fri, 18 Nov 2022 21:52:24 +0530</pubDate>
             <sparkle:version>0.9.4</sparkle:version>
