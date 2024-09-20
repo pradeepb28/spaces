@@ -3,6 +3,14 @@
     <channel>
         <title>Spaces</title>
         <item>
+            <title>0.9.9.6</title>
+            <pubDate>Fri, 20 Sep 2024 10:58:02 +0530</pubDate>
+            <sparkle:version>0.9.9.6</sparkle:version>
+            <sparkle:shortVersionString>0.9.9.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://akjeielvstuowgbmvbyj.supabase.co/storage/v1/object/public/spaces_updates/Spaces.zip" length="7432569" type="application/octet-stream" sparkle:edSignature="z+iLX1RFvruGtMU3B9/GWG0ZGFPI6C8Ooqa+VpWthNcuY6T2tcI7P337cmDweFw7zYiCkRpBBbVhepGN40flBQ=="/>
+        </item>
+        <item>
             <title>0.9.9.5</title>
             <pubDate>Sun, 14 Apr 2024 23:05:26 +0530</pubDate>
             <sparkle:version>0.9.9.5</sparkle:version>
